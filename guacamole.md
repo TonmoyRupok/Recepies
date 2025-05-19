@@ -5,3 +5,4 @@ Chilli
 salt
 ##Instructions
 ##Guacamole is a trash appetizer
+#add garlic
